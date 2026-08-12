@@ -1,0 +1,5 @@
+.env
+kinobot.env
+__pycache__/
+*.db
+venv/
